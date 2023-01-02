@@ -75,7 +75,7 @@ export default function App() {
                 style={{
                   borderRadius: 20,
                   shadowColor: "#000",
-                  shadowOpacity: 0.5,
+                  shadowOpacity: 0.8,
                   shadowRadius: 30,
                   shadowOffset: {
                     width: 0,
@@ -83,7 +83,7 @@ export default function App() {
                   },
                   padding: 12,
                   backgroundColor: "white",
-                  elevation: 12,
+                  elevation: 18,
                 }}
               >
                 <View
